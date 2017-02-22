@@ -1,0 +1,311 @@
+{
+    "maps": {
+        "map22.txt": {
+            "time": 0.4715409278869629,
+            "path_length": 107,
+            "nodes_expanded": 107,
+            "cost": 155.87578451539494
+        },
+        "map7.txt": {
+            "time": 0.19730114936828613,
+            "path_length": 102,
+            "nodes_expanded": 102,
+            "cost": 131.05382386916233
+        },
+        "map13.txt": {
+            "time": 0.2939901351928711,
+            "path_length": 126,
+            "nodes_expanded": 126,
+            "cost": 131.2269209080186
+        },
+        "map1.txt": {
+            "time": 0.37795543670654297,
+            "path_length": 103,
+            "nodes_expanded": 103,
+            "cost": 79.30203820042824
+        },
+        "map35.txt": {
+            "time": 0.20531439781188965,
+            "path_length": 79,
+            "nodes_expanded": 79,
+            "cost": 112.4030662740798
+        },
+        "map0.txt": {
+            "time": 0.25559449195861816,
+            "path_length": 124,
+            "nodes_expanded": 124,
+            "cost": 149.96194077712562
+        },
+        "map29.txt": {
+            "time": 0.2804453372955322,
+            "path_length": 121,
+            "nodes_expanded": 121,
+            "cost": 147.8233764908628
+        },
+        "map4.txt": {
+            "time": 0.12891435623168945,
+            "path_length": 68,
+            "nodes_expanded": 68,
+            "cost": 91.29646455628159
+        },
+        "map47.txt": {
+            "time": 0.45061612129211426,
+            "path_length": 104,
+            "nodes_expanded": 104,
+            "cost": 105.74989168102776
+        },
+        "map44.txt": {
+            "time": 0.6114711761474609,
+            "path_length": 115,
+            "nodes_expanded": 115,
+            "cost": 102.45736828631817
+        },
+        "map23.txt": {
+            "time": 0.1907329559326172,
+            "path_length": 88,
+            "nodes_expanded": 88,
+            "cost": 123.68339635996975
+        },
+        "map16.txt": {
+            "time": 0.17405986785888672,
+            "path_length": 89,
+            "nodes_expanded": 89,
+            "cost": 112.63961030678925
+        },
+        "map33.txt": {
+            "time": 0.2089214324951172,
+            "path_length": 81,
+            "nodes_expanded": 81,
+            "cost": 114.23149339882602
+        },
+        "map36.txt": {
+            "time": 0.13997411727905273,
+            "path_length": 68,
+            "nodes_expanded": 68,
+            "cost": 87.5213382904345
+        },
+        "map37.txt": {
+            "time": 0.3487966060638428,
+            "path_length": 109,
+            "nodes_expanded": 109,
+            "cost": 123.62031919022044
+        },
+        "map12.txt": {
+            "time": 0.2828824520111084,
+            "path_length": 94,
+            "nodes_expanded": 94,
+            "cost": 118.07768747653854
+        },
+        "map27.txt": {
+            "time": 0.22781872749328613,
+            "path_length": 72,
+            "nodes_expanded": 72,
+            "cost": 85.96651326793298
+        },
+        "map17.txt": {
+            "time": 0.4443347454071045,
+            "path_length": 97,
+            "nodes_expanded": 97,
+            "cost": 112.53758107979844
+        },
+        "map18.txt": {
+            "time": 0.2865943908691406,
+            "path_length": 136,
+            "nodes_expanded": 136,
+            "cost": 175.61017305526659
+        },
+        "map45.txt": {
+            "time": 0.8999192714691162,
+            "path_length": 141,
+            "nodes_expanded": 141,
+            "cost": 100.58846494072804
+        },
+        "map10.txt": {
+            "time": 0.6072251796722412,
+            "path_length": 128,
+            "nodes_expanded": 128,
+            "cost": 149.27260094890545
+        },
+        "map25.txt": {
+            "time": 0.31555628776550293,
+            "path_length": 138,
+            "nodes_expanded": 138,
+            "cost": 182.89444430272823
+        },
+        "map2.txt": {
+            "time": 0.38153910636901855,
+            "path_length": 116,
+            "nodes_expanded": 116,
+            "cost": 156.53022176691778
+        },
+        "map21.txt": {
+            "time": 0.2982215881347656,
+            "path_length": 123,
+            "nodes_expanded": 123,
+            "cost": 152.78048327204942
+        },
+        "map30.txt": {
+            "time": 0.2558298110961914,
+            "path_length": 85,
+            "nodes_expanded": 85,
+            "cost": 121.01918279759664
+        },
+        "map34.txt": {
+            "time": 0.2705690860748291,
+            "path_length": 88,
+            "nodes_expanded": 88,
+            "cost": 110.3926586339941
+        },
+        "map8.txt": {
+            "time": 0.5947444438934326,
+            "path_length": 123,
+            "nodes_expanded": 123,
+            "cost": 102.39265863399415
+        },
+        "map43.txt": {
+            "time": 0.2524607181549072,
+            "path_length": 88,
+            "nodes_expanded": 88,
+            "cost": 120.66473657263636
+        },
+        "map20.txt": {
+            "time": 0.1350393295288086,
+            "path_length": 91,
+            "nodes_expanded": 91,
+            "cost": 122.78847391416546
+        },
+        "map26.txt": {
+            "time": 0.19700241088867188,
+            "path_length": 92,
+            "nodes_expanded": 92,
+            "cost": 104.41168824543138
+        },
+        "map15.txt": {
+            "time": 0.3654143810272217,
+            "path_length": 124,
+            "nodes_expanded": 124,
+            "cost": 189.4213562373096
+        },
+        "map48.txt": {
+            "time": 0.4029855728149414,
+            "path_length": 106,
+            "nodes_expanded": 106,
+            "cost": 128.89113447039173
+        },
+        "map31.txt": {
+            "time": 0.18496274948120117,
+            "path_length": 130,
+            "nodes_expanded": 130,
+            "cost": 165.97387258081378
+        },
+        "map40.txt": {
+            "time": 0.31288671493530273,
+            "path_length": 117,
+            "nodes_expanded": 117,
+            "cost": 149.99899884666084
+        },
+        "map49.txt": {
+            "time": 0.5437290668487549,
+            "path_length": 116,
+            "nodes_expanded": 116,
+            "cost": 97.54252339470966
+        },
+        "map24.txt": {
+            "time": 0.1986832618713379,
+            "path_length": 76,
+            "nodes_expanded": 76,
+            "cost": 87.16904755831212
+        },
+        "map42.txt": {
+            "time": 0.4895598888397217,
+            "path_length": 118,
+            "nodes_expanded": 118,
+            "cost": 126.49316369738254
+        },
+        "map9.txt": {
+            "time": 0.5844886302947998,
+            "path_length": 110,
+            "nodes_expanded": 110,
+            "cost": 98.71651326793295
+        },
+        "map32.txt": {
+            "time": 0.3296854496002197,
+            "path_length": 86,
+            "nodes_expanded": 86,
+            "cost": 70.94417382415918
+        },
+        "map28.txt": {
+            "time": 0.2371504306793213,
+            "path_length": 89,
+            "nodes_expanded": 89,
+            "cost": 93.86143571373722
+        },
+        "map6.txt": {
+            "time": 0.47336339950561523,
+            "path_length": 133,
+            "nodes_expanded": 133,
+            "cost": 142.10102807365158
+        },
+        "map38.txt": {
+            "time": 0.4019441604614258,
+            "path_length": 140,
+            "nodes_expanded": 140,
+            "cost": 177.64964812277128
+        },
+        "map11.txt": {
+            "time": 0.19610834121704102,
+            "path_length": 77,
+            "nodes_expanded": 77,
+            "cost": 108.1248916810278
+        },
+        "map39.txt": {
+            "time": 0.19757652282714844,
+            "path_length": 73,
+            "nodes_expanded": 73,
+            "cost": 102.89570696119905
+        },
+        "map14.txt": {
+            "time": 0.45749950408935547,
+            "path_length": 172,
+            "nodes_expanded": 172,
+            "cost": 218.2289680818847
+        },
+        "map3.txt": {
+            "time": 0.38675451278686523,
+            "path_length": 143,
+            "nodes_expanded": 143,
+            "cost": 186.32768747653873
+        },
+        "map5.txt": {
+            "time": 0.30390071868896484,
+            "path_length": 88,
+            "nodes_expanded": 88,
+            "cost": 128.4327650307343
+        },
+        "map41.txt": {
+            "time": 0.3924837112426758,
+            "path_length": 90,
+            "nodes_expanded": 90,
+            "cost": 84.5226009489054
+        },
+        "map19.txt": {
+            "time": 0.19484901428222656,
+            "path_length": 103,
+            "nodes_expanded": 103,
+            "cost": 134.953318805774
+        },
+        "map46.txt": {
+            "time": 0.526270866394043,
+            "path_length": 88,
+            "nodes_expanded": 88,
+            "cost": 76.21257210636101
+        }
+    },
+    "average": {
+        "count": 50,
+        "time": 0.33931325912475585,
+        "path_length": 1.0,
+        "nodes_expanded": 105.5,
+        "cost": 125.06471617787761
+    }
+}
